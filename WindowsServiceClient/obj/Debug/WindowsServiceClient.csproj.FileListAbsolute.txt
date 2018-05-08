@@ -1,0 +1,14 @@
+E:\项目文件\windows service\WindowsServiceTest\WindowsServiceClient\bin\Debug\WindowsServiceClient.exe.config
+E:\项目文件\windows service\WindowsServiceTest\WindowsServiceClient\bin\Debug\WindowsServiceClient.exe
+E:\项目文件\windows service\WindowsServiceTest\WindowsServiceClient\bin\Debug\WindowsServiceClient.pdb
+E:\项目文件\windows service\WindowsServiceTest\WindowsServiceClient\bin\Debug\MyWindowsService.exe
+E:\项目文件\windows service\WindowsServiceTest\WindowsServiceClient\bin\Debug\MyWindowsService.pdb
+E:\项目文件\windows service\WindowsServiceTest\WindowsServiceClient\bin\Debug\MyWindowsService.exe.config
+E:\项目文件\windows service\WindowsServiceTest\WindowsServiceClient\obj\Debug\WindowsServiceClient.csprojResolveAssemblyReference.cache
+E:\项目文件\windows service\WindowsServiceTest\WindowsServiceClient\obj\Debug\WindowsServiceClient.Form1.resources
+E:\项目文件\windows service\WindowsServiceTest\WindowsServiceClient\obj\Debug\WindowsServiceClient.Properties.Resources.resources
+E:\项目文件\windows service\WindowsServiceTest\WindowsServiceClient\obj\Debug\WindowsServiceClient.csproj.GenerateResource.cache
+E:\项目文件\windows service\WindowsServiceTest\WindowsServiceClient\obj\Debug\WindowsServiceClient.csproj.CoreCompileInputs.cache
+E:\项目文件\windows service\WindowsServiceTest\WindowsServiceClient\obj\Debug\WindowsServiceClient.csproj.CopyComplete
+E:\项目文件\windows service\WindowsServiceTest\WindowsServiceClient\obj\Debug\WindowsServiceClient.exe
+E:\项目文件\windows service\WindowsServiceTest\WindowsServiceClient\obj\Debug\WindowsServiceClient.pdb
